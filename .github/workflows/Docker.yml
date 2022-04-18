@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: rubenleerentveld/randoom:latest
+          tags: Smeefie/randoom:latest
